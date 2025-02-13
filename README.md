@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BasedRentals
 A way for me to manage my rental agreements and payments
 =======
@@ -41,4 +40,3 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 To learn more about OnchainKit, see our [documentation](https://onchainkit.xyz/getting-started).
 
 To learn more about Next.js, see the [Next.js documentation](https://nextjs.org/docs).
->>>>>>> master
